@@ -1,0 +1,9 @@
+# jgomas
+dat*
+agente.log*
+APDescription.txt
+MTPs-Main-Container.txt
+JGOMAS_Statistics.txt
+
+# jgomas-unity
+output_log.txt
