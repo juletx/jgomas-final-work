@@ -1,0 +1,10 @@
+MAS a {
+
+	infrastructure: Jade
+
+	agents:
+		agent1 jasonAgent_ALLIED;
+
+	aslSourcePath:
+		"src/asl";
+}

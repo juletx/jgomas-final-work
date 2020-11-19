@@ -1,0 +1,600 @@
+Retrieving CommandDispatcher for platform null
+
+Activating Agent (A6@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (A2@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (A7@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Adrian@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (A3@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Elastico@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (A4@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (A1@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent ("Corralo@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Edu@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (A5@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Lechuga@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Fuego@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (LaCosa@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (A6@192.168.0.12:1099/JADE):
+Being shot: 2 propCont: shooting_to_me(2)
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (Fuego@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (Elastico@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (A1@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (A2@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (A3@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 100
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 50
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 25
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+A5 (Packs delivered): 4
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 100
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 75
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 50
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 1
+A5 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 25
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+A4 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 1
+A4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (Adrian@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 4
+A5 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 4
+A4 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 5
+A5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 5
+A4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 9
+A5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 9
+A5 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 8
+A4 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 9
+A4 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 10
+A5 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: objective_position(232,0,112)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 13
+A4 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+A4 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 14
+A4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+A4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+A5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+A5 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+A4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+A4 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 20
+A5 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+A4 (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (A4@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (A5@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (A7@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Arrived: null
