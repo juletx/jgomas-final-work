@@ -40,53 +40,77 @@ type("CLASS_MEDIC").
  * 
  */
 +!get_agent_to_aim
-<-  ?debug(Mode); if (Mode<=2) { .println("Looking for agents to aim."); }
-?fovObjects(FOVObjects);
-.length(FOVObjects, Length);
-
-?debug(Mode); if (Mode<=1) { .println("El numero de objetos es:", Length); }
-
-if (Length > 0) {
-    +bucle(0);
+    <-  ?debug(Mode); if (Mode<=2) { .println("Looking for agents to aim."); }
+        ?fovObjects(FOVObjects);
+        .length(FOVObjects, Length);
+        
+        ?debug(Mode); if (Mode<=1) { .println("El numero de objetos es:", Length); }
+        
+        if (Length > 0) {
+		    +bucle(0);
     
-    -+aimed("false");
-    
-    while (aimed("false") & bucle(X) & (X < Length)) {
-        
-        //.println("En el bucle, y X vale:", X);
-        
-        .nth(X, FOVObjects, Object);
-        // Object structure
-        // [#, TEAM, TYPE, ANGLE, DISTANCE, HEALTH, POSITION ]
-        .nth(2, Object, Type);
-        
-        ?debug(Mode); if (Mode<=2) { .println("Objeto Analizado: ", Object); }
-        
-        if (Type > 1000) {
-            ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
-        } else {
-            // Object may be an enemy
-            .nth(1, Object, Team);
-            ?my_formattedTeam(MyTeam);
+            -+youCanShoot("false");
+            -+found_enemy("false");
+            -+found_allied("false");
             
-            if (Team == 200) {  // Only if I'm ALLIED
-				
-                ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-                +aimed_agent(Object);
-                -+aimed("true");
+    
+            while (bucle(X) & (X < Length)) {
+  
+                //.println("En el bucle, y X vale:", X);
+                
+                .nth(X, FOVObjects, Object);
+                // Object structure 
+                // [#, TEAM, TYPE, ANGLE, DISTANCE, HEALTH, POSITION ]
+                .nth(2, Object, Type);
+                
+                ?debug(Mode); if (Mode<=2) { .println("Objeto Analizado: ", Object); }
+                
+                if (Type > 1000) {
+                    ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
+                } else {
+                    // Object may be an enemy
+                    .nth(1, Object, Team);
+                    ?my_formattedTeam(MyTeam);
+          
+                    if (Team == 200) {  // Only if I'm AXIS
+                        -+found_enemy("true");
+                        -+found_enemy_obj(Object);
+                    }
+                    if(Team == 100){
+                        -+found_allied("true");
+                        -+found_allied_obj(Object);
+                    }
+                    
+                }
+             
+                -+bucle(X+1);
                 
             }
-            
+            if(found_enemy("true")){
+                ?found_enemy_obj(EnemyObj);
+                .nth(4, EnemyObj, DistToEnemy);
+                if(found_allied("true")){
+                    ?found_allied_obj(AlliedObj);
+                    .nth(4, AlliedObj, DistToAlly);
+                    if(DistToAlly>DistToEnemy){
+                        -+youCanShoot("true");
+                    }
+                    else{
+                        -+youCanShoot("false");
+                    }
+                }
+                else{
+                    -+youCanShoot("true");
+                }
+                if(youCanShoot("true")){
+                    +aimed_agent(EnemyObj);
+                }
+            }
+                     
+       
         }
-        
-        -+bucle(X+1);
-        
-    }
-    
-   
-}
 
--bucle(_).
+     -bucle(_).
 
 /////////////////////////////////
 //  LOOK RESPONSE
