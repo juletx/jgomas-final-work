@@ -50,9 +50,12 @@ patrollingRadius(64).
         if (Length > 0) {
 		    +bucle(0);
     
-            -+aimed("false");
+            -+youCanShoot("false");
+            -+found_enemy("false");
+            -+found_allied("false");
+            
     
-            while (aimed("false") & bucle(X) & (X < Length)) {
+            while (bucle(X) & (X < Length)) {
   
                 //.println("En el bucle, y X vale:", X);
                 
@@ -71,17 +74,38 @@ patrollingRadius(64).
                     ?my_formattedTeam(MyTeam);
           
                     if (Team == 100) {  // Only if I'm AXIS
-				
- 					    ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
-					    +aimed_agent(Object);
-                        -+aimed("true");
-
+                        -+found_enemy("true");
+                        -+found_enemy_obj(Object);
+                    }
+                    if(Team == 200){
+                        -+found_allied("true");
+                        -+found_allied_obj(Object);
                     }
                     
                 }
              
                 -+bucle(X+1);
                 
+            }
+            if(found_enemy("true")){
+                ?found_enemy_obj(EnemyObj);
+                .nth(4, EnemyObj, DistToEnemy);
+                if(found_allied("true")){
+                    ?found_allied_obj(AlliedObj);
+                    .nth(4, AlliedObj, DistToAlly);
+                    if(DistToAlly>DistToEnemy){
+                        -+youCanShoot("true");
+                    }
+                    else{
+                        -+youCanShoot("false");
+                    }
+                }
+                else{
+                    -+youCanShoot("true");
+                }
+                if(youCanShoot("true")){
+                    +aimed_agent(EnemyObj);
+                }
             }
                      
        
