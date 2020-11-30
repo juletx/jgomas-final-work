@@ -1,0 +1,1353 @@
+Retrieving CommandDispatcher for platform null
+
+Activating Agent (Lechuga@192.168.0.12:1099/JADE - id: -1) ... [OK]
+
+Activating Agent (LaCosa@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+Nothing to register
+
+Activating Agent (Corralo@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (E7@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Edu@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Fuego@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (E1@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (E5@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (E3@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (E4@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (E6@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Elastico@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (Adrian@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (E2@192.168.0.12:1099/JADE - id: -1) ... [OK]
+Nothing to register
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: objective_position(232,0,112)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 75
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 25
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+ performMedictAction(), el valor de Power es: 25
+Fuego (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 25
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Fuego (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+Elastico (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Elastico (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 0
+Adrian (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 1
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ performMedictAction(), el valor de Power es: 25
+Corralo (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 1
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Edu (Packs delivered): 4
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+ performMedictAction(), el valor de Power es: 1
+ performMedictAction(), el valor de Power es: 1
+ performMedictAction(), el valor de Power es: 1
+Adrian (Packs delivered): 0
+Elastico (Packs delivered): 0
+Fuego (Packs delivered): 0
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Lechuga (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 1
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Lechuga (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Edu (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 1
+Lechuga (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+Corralo (Packs delivered): 0
+Fuego (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Elastico (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Adrian (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+Edu (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 3
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 3
+Fuego (Packs delivered): 0
+Lechuga (Packs delivered): 0
+Elastico (Packs delivered): 0
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 4
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+ performMedictAction(), el valor de Power es: 4
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Elastico (Packs delivered): 0
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ performMedictAction(), el valor de Power es: 5
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Adrian (Packs delivered): 0
+Elastico (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Corralo (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+Elastico (Packs delivered): 0
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Edu (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Edu (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Elastico (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+ performMedictAction(), el valor de Power es: 9
+Lechuga (Packs delivered): 0
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ performMedictAction(), el valor de Power es: 9
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Fuego (Packs delivered): 0
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 10
+ performMedictAction(), el valor de Power es: 10
+Elastico (Packs delivered): 0
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Lechuga (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 10
+Edu (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Lechuga (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (Edu@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+ performMedictAction(), el valor de Power es: 11
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ performMedictAction(), el valor de Power es: 11
+Corralo (Packs delivered): 0
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Lechuga (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 12
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Adrian (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Fuego (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 12
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Fuego (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 13
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ performMedictAction(), el valor de Power es: 13
+Corralo (Packs delivered): 0
+Elastico (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ performMedictAction(), el valor de Power es: 14
+Fuego (Packs delivered): 0
+Lechuga (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Fuego (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Fuego (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Corralo (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (Fuego@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Corralo (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Corralo (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Corralo (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Lechuga (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 17
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 18
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ performMedictAction(), el valor de Power es: 18
+Corralo (Packs delivered): 0
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 18
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 19
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 20
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 20
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 21
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 21
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 22
+ performMedictAction(), el valor de Power es: 21
+Elastico (Packs delivered): 0
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ performMedictAction(), el valor de Power es: 21
+Corralo (Packs delivered): 0
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 24
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+Adrian (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+Elastico (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 0
+Adrian (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+Corralo (Packs delivered): 1
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+Lechuga (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 1
+ performMedictAction(), el valor de Power es: 0
+Elastico (Packs delivered): 0
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 2
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+Adrian (Packs delivered): 0
+Corralo (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+Corralo (Packs delivered): 0
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 3
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 4
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 4
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 4
+Corralo (Packs delivered): 0
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 5
+ performMedictAction(), el valor de Power es: 5
+ performMedictAction(), el valor de Power es: 5
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Adrian (Packs delivered): 0
+Elastico (Packs delivered): 0
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 5
+ performMedictAction(), el valor de Power es: 5
+Corralo (Packs delivered): 0
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 6
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+Adrian (Packs delivered): 0
+Elastico (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 7
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 7
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 8
+ performMedictAction(), el valor de Power es: 7
+Elastico (Packs delivered): 0
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ performMedictAction(), el valor de Power es: 7
+Adrian (Packs delivered): 0
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 8
+ performMedictAction(), el valor de Power es: 8
+Lechuga (Packs delivered): 0
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ performMedictAction(), el valor de Power es: 8
+Adrian (Packs delivered): 0
+Elastico (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 9
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 9
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 10
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 11
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Corralo (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 11
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Corralo (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (Corralo@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+ performMedictAction(), el valor de Power es: 12
+ performMedictAction(), el valor de Power es: 11
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+Adrian (Packs delivered): 0
+Elastico (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 12
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 12
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 13
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 14
+ performMedictAction(), el valor de Power es: 13
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+Elastico (Packs delivered): 0
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 14
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 14
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 15
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Elastico (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 15
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 16
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 16
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Elastico (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 17
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 17
+ performMedictAction(), el valor de Power es: 17
+ performMedictAction(), el valor de Power es: 18
+Elastico (Packs delivered): 0
+Lechuga (Packs delivered): 0
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 18
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 18
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 19
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Elastico (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 20
+ performMedictAction(), el valor de Power es: 19
+Elastico (Packs delivered): 0
+Lechuga (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+Adrian (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (Elastico@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 20
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 21
+ performMedictAction(), el valor de Power es: 21
+Adrian (Packs delivered): 0
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 21
+Adrian (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (E6@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+ performMedictAction(), el valor de Power es: 22
+ performMedictAction(), el valor de Power es: 22
+Adrian (Packs delivered): 0
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+Being shot: 3 propCont: shooting_to_me(3)
+ performMedictAction(), el valor de Power es: 22
+ performMedictAction(), el valor de Power es: 22
+Adrian (Packs delivered): 0
+Lechuga (Packs delivered): 0
+Being shot: 3 propCont: shooting_to_me(3)
+
+Agent (LaCosa@192.168.0.12:1099/JADE):
+
+Agent (Adrian@192.168.0.12:1099/JADE):
+
+Agent (E3@192.168.0.12:1099/JADE):
+
+Agent (E5@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+
+Agent (E7@192.168.0.12:1099/JADE):
+
+Agent (Lechuga@192.168.0.12:1099/JADE):
+
+Agent (E1@192.168.0.12:1099/JADE):
+
+Agent (E2@192.168.0.12:1099/JADE):
+
+Agent (E4@192.168.0.12:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
