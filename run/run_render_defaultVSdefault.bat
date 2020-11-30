@@ -2,7 +2,7 @@
 @cd ../jgomas/bin/mas
 start /B jgomas_manager.bat
 @timeout 5
-start /B jgomas_launcher.bat
+start /B jgomas_launcher_defaultVSdefault.bat
 @cd ../render/w32
 @timeout 5
 start /B run_jgomasrender.bat
