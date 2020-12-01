@@ -7,18 +7,30 @@ manager("Manager").
 team("ALLIED").
 // Type of troop.
 type("CLASS_MEDIC").
+objectivePackTaken(off).
+returnHome(0).
 
+{ include("jgomas.asl") }
+//{ include("resources.asl") }
 
-
-
-{ include("../jgomas.asl") }
-
-
-
+priority(5000).
 
 // Plans
 
-
++!fw_distance( pos( A, B, C ), pos( X, Y, Z ) )
+	<-
+	D = math.sqrt( ( A - X ) * ( A - X ) + ( B - Y ) * ( B - Y ) + ( C - Z ) * ( C - Z ) );
+	-+fw_distance( D );
+	.
++!follow(pos( X, Y, Z ), DistObjetivo )
+<-	?my_position( A, B, C );
+	Vx = X - A;
+	Vz = Z - C;
+	Modulo = math.sqrt(Vx * Vx + Vz * Vz);
+	-+destinoX(A + (Vx/Modulo) * DistObjetivo);
+	-+destinoZ(C + (Vz/Modulo) * DistObjetivo);
+	.println((Vx/Modulo) * DistObjetivo);
+.
 /*******************************
 *
 * Actions definitions
@@ -39,78 +51,59 @@ type("CLASS_MEDIC").
  * <em> It's very useful to overload this plan. </em>
  * 
  */
+ +followFlag(X, Y, Z)[source(M)] 
+ <-	?priority(P);
+	!add_task(task(P, "TASK_GOTO_POSITION", "Manager", pos(X, Y, Z), ""));
+	-+state(standing);            			
+    -+priority(P+1);
+    create_medic_pack;
+ .
+ 
 +!get_agent_to_aim
-    <-  ?debug(Mode); if (Mode<=2) { .println("Looking for agents to aim."); }
-        ?fovObjects(FOVObjects);
-        .length(FOVObjects, Length);
-        
-        ?debug(Mode); if (Mode<=1) { .println("El numero de objetos es:", Length); }
-        
-        if (Length > 0) {
-		    +bucle(0);
-    
-            -+youCanShoot("false");
-            -+found_enemy("false");
-            -+found_allied("false");
-            
-    
-            while (bucle(X) & (X < Length)) {
-  
-                //.println("En el bucle, y X vale:", X);
-                
-                .nth(X, FOVObjects, Object);
-                // Object structure 
-                // [#, TEAM, TYPE, ANGLE, DISTANCE, HEALTH, POSITION ]
-                .nth(2, Object, Type);
-                
-                ?debug(Mode); if (Mode<=2) { .println("Objeto Analizado: ", Object); }
-                
-                if (Type > 1000) {
-                    ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
-                } else {
-                    // Object may be an enemy
-                    .nth(1, Object, Team);
-                    ?my_formattedTeam(MyTeam);
+<-  ?fovObjects(FOVObjects);
+	.length(FOVObjects, Length);
+	
+	if (objectivePackTaken(on)) {
+		if (returnHome(RH) & (RH == 0)) {
+			!add_task(task(5000, "TASK_GOTO_POSITION", M, pos(30, 0, 240), ""));
+			-+task_priority("TASK_GIVE_MEDICPAKS", 0);
+			-+returnHome(1);
+		}
+		?my_position(X, Y, Z);
           
-                    if (Team == 200) {  // Only if I'm AXIS
-                        -+found_enemy("true");
-                        -+found_enemy_obj(Object);
-                    }
-                    if(Team == 100){
-                        -+found_allied("true");
-                        -+found_allied_obj(Object);
-                    }
-                    
-                }
-             
-                -+bucle(X+1);
-                
-            }
-            if(found_enemy("true")){
-                ?found_enemy_obj(EnemyObj);
-                .nth(4, EnemyObj, DistToEnemy);
-                if(found_allied("true")){
-                    ?found_allied_obj(AlliedObj);
-                    .nth(4, AlliedObj, DistToAlly);
-                    if(DistToAlly>DistToEnemy){
-                        -+youCanShoot("true");
-                    }
-                    else{
-                        -+youCanShoot("false");
-                    }
-                }
-                else{
-                    -+youCanShoot("true");
-                }
-                if(youCanShoot("true")){
-                    +aimed_agent(EnemyObj);
-                }
-            }
-                     
-       
-        }
-
-     -bucle(_).
+     	.my_team("medic_ALLIED", E2);
+     	.concat("followFlag(",X, ", ", Y, ", ", Z, ")", Content2);
+     	.send_msg_with_conversation_id(E2, tell, Content2, "FLAG");
+	}
+	if (Length > 0) {
+	    +bucle(0);
+	    -+aimed("false");
+	    
+	    while (aimed("false") & bucle(X) & (X < Length)) {
+	        .nth(X, FOVObjects, Object);
+	        // Object structure
+	        // [#, TEAM, TYPE, ANGLE, DISTANCE, HEALTH, POSITION ]
+	        .nth(2, Object, Type);
+	        
+	        ?debug(Mode); if (Mode<=2) { .println("Objeto Analizado: ", Object); }
+	        
+	        if (Type > 1000) {
+	            ?debug(Mode); if (Mode<=2) { .println("I found some object."); }
+	        } else {
+	            // Object may be an enemy
+	            .nth(1, Object, Team);
+	            ?my_formattedTeam(MyTeam);
+	            
+	            /*if (Team == 200) {  // Only if I'm ALLIED				
+	                ?debug(Mode); if (Mode<=2) { .println("Aiming an enemy. . .", MyTeam, " ", .number(MyTeam) , " ", Team, " ", .number(Team)); }
+	                +aimed_agent(Object);
+	                -+aimed("true");
+	            }*/
+	        }
+	        -+bucle(X+1);
+	    }
+	}
+	-bucle(_).
 
 /////////////////////////////////
 //  LOOK RESPONSE
@@ -152,8 +145,8 @@ type("CLASS_MEDIC").
 
         if (AimedAgentTeam == 200) {
     
-                .nth(6, AimedAgent, NewDestination);
-                ?debug(Mode); if (Mode<=1) { .println("NUEVO DESTINO DEBERIA SER: ", NewDestination); }
+            .nth(6, AimedAgent, NewDestination);
+            ?debug(Mode); if (Mode<=1) { .println("NUEVO DESTINO DEBERIA SER: ", NewDestination); }
           
             }
  .
@@ -199,7 +192,7 @@ type("CLASS_MEDIC").
 /////////////////////////////////
 /**  You can change initial priorities if you want to change the behaviour of each agent  **/+!setup_priorities
     <-  +task_priority("TASK_NONE",0);
-        +task_priority("TASK_GIVE_MEDICPAKS", 2000);
+        +task_priority("TASK_GIVE_MEDICPAKS", 0);
         +task_priority("TASK_GIVE_AMMOPAKS", 0);
         +task_priority("TASK_GIVE_BACKUP", 0);
         +task_priority("TASK_GET_OBJECTIVE",1000);
@@ -240,7 +233,8 @@ type("CLASS_MEDIC").
  *
  */
  +!checkMedicAction
-     <-  -+medicAction(on).
+     <-  -+medicAction(on);
+     .
       // go to help
       
       
@@ -333,4 +327,15 @@ type("CLASS_MEDIC").
 /////////////////////////////////
 
 +!init
-   <- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR init GOES HERE.")}.  
+<- ?my_position(X, Y, Z);   
+   !fw_distance(pos(X, Y, Z), pos(184, 0, 240));
+   ?fw_distance(D1);
+   !fw_distance(pos(X, Y, Z), pos(30, 0, 240));
+   ?fw_distance(D2);
+
+   if(D1 > D2) {
+   		!add_task(task(5000, "TASK_GOTO_POSITION", M, pos(30, 0, 240), ""));
+   } else {
+   		!add_task(task(5000, "TASK_GOTO_POSITION", M, pos(184, 0, 240), ""));
+   }
+.
