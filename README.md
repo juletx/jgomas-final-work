@@ -3,11 +3,11 @@
 ## 1. Description:
 - ### Subject: Advanced Techniques in Artificial Intelligence
 - ### Objective: Modify default ALLIED and AXIS agents to achieve some tasks
-- ### Contents: This repository contains jgomas code, jgomas Unity renderer and running scripts
+- ### Contents:
     - `jgomas`: jgomas code containing maps, agents, launchers, manager, renderer...
     - `JGOMAS_Unity_Windows`: jgomas Unity Windows renderer
     - `run`: scripts to run launcher, manager and renderer together
-    - `JGomas-Fighters`: code from previous year teams
+    - `JGomas-Fighters`: code from previous year teams: https://github.com/amujika/JGomas-Fighters
 
 ## 2. Teams:
 - ### Final Teams: 6 members, joining 2 teams of 3 memebers.
@@ -17,8 +17,9 @@
 
 ## 3. Deadlines:
 - ### Deadline task 1 and 2 : Before December 1, 2020
-- ### Deadline task 3 and 4: December 17, 2020
-- ### Competition and presentations: December 17, 2020
+- ### Deadline task 3 and 4: December 14, 2020
+- ### Competition: December 14 and 15, 2020
+- ### Presentations: December 17, 2020
 
 ## 4. Configuration:
 - ### Map: map_04
