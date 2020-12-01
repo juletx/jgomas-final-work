@@ -1,5 +1,5 @@
-set srcAxis="simple"
-set srcAllied="complex"
+set srcAxis="complex"
+set srcAllied="simple"
 set AxisSoldier=%srcAxis%"/jasonAgent_AXIS_SOLDIER.asl"
 set AxisMedic=%srcAxis%"/jasonAgent_AXIS_MEDIC.asl"
 set AxisFieldops=%srcAxis%"/jasonAgent_AXIS_FIELDOPS.asl"

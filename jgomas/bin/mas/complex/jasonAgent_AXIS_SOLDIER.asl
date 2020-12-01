@@ -90,6 +90,16 @@ patrollingRadius(64).
             if(found_enemy("true")){
                 ?found_enemy_obj(EnemyObj);
                 .nth(4, EnemyObj, DistToEnemy);
+
+
+                /*SEND MESSAGE TO TEAMMATES OF THE ENEMY POSITION*/
+                .nth(6,EnemyObj,pos);
+                .my_team("AXIS",E1);
+                .concat("kIlLtHaThEnEmY(",X,",",Y,",",Z,")",Content1);
+                .send_msg_with_conversation_id(E1,tell,Content1,"INT");
+
+
+
                 if(found_allied("true")){
                     ?found_allied_obj(AlliedObj);
                     .nth(4, AlliedObj, DistToAlly);
@@ -331,6 +341,12 @@ patrollingRadius(64).
    <- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR cfa_refuse GOES HERE.")};
       -cfa_refuse.  
 
++kIlLtHaThEnEmY(X,Y,Z)[source(A)]
+    <- 
+        !add_task(task("TASK_GOTO_POSITION",A,pos(X,Y,Z),""));
+        ­‐+state(standing);
+        ‐goto(_,_,_).
+
 
 
 /////////////////////////////////
@@ -338,4 +354,6 @@ patrollingRadius(64).
 /////////////////////////////////
 
 +!init
-   <- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR init GOES HERE.")}.  
+   <- ?debug(Mode); if (Mode<=1) { .println("YOUR CODE FOR init GOES HERE.")}
+   .my_name(MyName);
+   !add_task(task("TASK_GOTO_POSITION",MynName,pos(214,0,204),"")). 
