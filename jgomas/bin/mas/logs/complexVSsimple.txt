@@ -1,0 +1,43 @@
+Retrieving CommandDispatcher for platform null
+
+Activating Agent (AXIS_FIELDOPS_1@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_2@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_SOLDIER_1@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_5@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_FIELDOPS_2@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_SOLDIER_2@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_6@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_MEDIC_2@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_MEDIC_1@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_SOLDIER_3@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_1@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_4@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_7@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_3@192.168.1.6:1099/JADE - id: -1) ... [OK]
+Nothing to register
