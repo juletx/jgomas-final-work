@@ -3,11 +3,13 @@
 ## 1. Description:
 - ### Subject: Advanced Techniques in Artificial Intelligence
 - ### Objective: Modify default ALLIED and AXIS agents to achieve some tasks
+- ### Repository: https://github.com/juletx/jgomas-final-work
 - ### Contents:
     - `jgomas`: jgomas code containing maps, agents, launchers, manager, renderer...
     - `JGOMAS_Unity_Windows`: jgomas Unity Windows renderer
     - `run`: scripts to run launcher, manager and renderer together
     - `JGomas-Fighters`: code from previous year teams: https://github.com/amujika/JGomas-Fighters
+    - `Competition`: code from the competition with agents, launchers and statistics
 
 ## 2. Teams:
 - ### Final Teams: 6 members, joining 2 teams of 3 memebers.
