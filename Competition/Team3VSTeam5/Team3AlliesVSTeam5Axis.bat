@@ -1,0 +1,12 @@
+set srcAxis="team5axis"
+set srcAllied="complex"
+set AxisFieldops=%srcAxis%"/jasonAgent_AXIS_FIELDOPS.asl"
+set AxisFieldopsBase=%srcAxis%"/jasonAgent_AXIS_FIELDOPSBASE.asl"
+set AxisFieldopsDef=%srcAxis%"/jasonAgent_AXIS_FIELDOPSDEF.asl"
+set AlliedSoldier=%srcAllied%"/jasonAgent_ALLIED_SOLDIER.asl"
+set AlliedMedic=%srcAllied%"/jasonAgent_ALLIED_MEDIC.asl"
+set AlliedFieldops=%srcAllied%"/jasonAgent_ALLIED_FIELDOPS.asl"
+set file="logs/Team3AllisVSTeam2Axis.txt"
+set AxisAgents="T1:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AxisFieldops%);T2:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AxisFieldops%);T3:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AxisFieldops%);T4:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AxisFieldopsDef%);T5:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AxisFieldopsBase%);T6:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AxisFieldopsBase%);T7:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AxisFieldopsBase%)"
+set AlliedAgents="ALLIED_MEDIC_1:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AlliedMedic%);ALLIED_MEDIC_2:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AlliedMedic%);ALLIED_MEDIC_3:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AlliedMedic%);ALLIED_MEDIC_4:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AlliedMedic%);ALLIED_MEDIC_5:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AlliedMedic%);ALLIED_MEDIC_6:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AlliedMedic%);ALLIED_MEDIC_7:es.upv.dsic.gti_ia.JasonJGomas.BasicTroopJasonArch(%AlliedMedic%)"
+java -classpath "lib\jade.jar;lib\jadeTools.jar;lib\Base64.jar;lib\http.jar;lib\iiop.jar;lib\beangenerator.jar;lib\jgomas.jar;lib\jason.jar;lib\JasonJGomas.jar;classes;." jade.Boot -container -host localhost %AxisAgents%;%AlliedAgents% > %file%

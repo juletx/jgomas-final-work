@@ -1,0 +1,2548 @@
+Retrieving CommandDispatcher for platform null
+
+Activating Agent (ALLIED_MEDIC_2@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_FIELDOPS_4@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_3@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_FIELDOPS_1@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_FIELDOPS_3@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_FIELDOPS_6@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_4@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_6@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_FIELDOPS_5@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_FIELDOPS_2@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_7@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_1@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (ALLIED_MEDIC_5@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+
+Activating Agent (AXIS_SOLDIER_1@158.227.124.33:1099/JADE - id: -1) ... [OK]
+Nothing to register
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: objective_position(24,0,232)
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+ performMedictAction(), el valor de Power es: 100
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 75
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+ performMedictAction(), el valor de Power es: 50
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_2 (Packs delivered): 4
+ALLIED_MEDIC_4 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_3 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_1 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_6 (Packs delivered): 4
+ALLIED_MEDIC_7 (Packs delivered): 4
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+ performMedictAction(), el valor de Power es: 3
+ performMedictAction(), el valor de Power es: 3
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+ performMedictAction(), el valor de Power es: 7
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 7
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+ performMedictAction(), el valor de Power es: 13
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 17
+ performMedictAction(), el valor de Power es: 17
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 20
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_2 (Packs delivered): 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 20
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 24
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_2 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_6 (Packs delivered): 1
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_3 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_2 (Packs delivered): 1
+Arrived: medic_pack_taken(20)
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_1 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_7 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_4 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_1 (Packs delivered): 0
+AXIS_FIELDOPS_3 (Packs delivered): 4
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+Arrived: ammo_pack_taken(20)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 7
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_6 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_6 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+AXIS_FIELDOPS_2 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ performMedictAction(), el valor de Power es: 14
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+AXIS_FIELDOPS_6 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 18
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_3 (Packs delivered): 0
+AXIS_FIELDOPS_1 (Packs delivered): 4
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_4 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_1 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_7 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_3 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_6 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_2 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 14
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_3 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_6 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 17
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+AXIS_FIELDOPS_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_2 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+AXIS_FIELDOPS_6 (Packs delivered): 1
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+Being shot: 2 propCont: shooting_to_me(2)
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_2 (Packs delivered): 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+AXIS_FIELDOPS_3 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 19
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_4 (Packs delivered): 0
+AXIS_FIELDOPS_2 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+Arrived: ammo_pack_taken(20)
+AXIS_FIELDOPS_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 22
+ALLIED_MEDIC_6 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+AXIS_FIELDOPS_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 23
+ALLIED_MEDIC_1 (Packs delivered): 0
+AXIS_FIELDOPS_1 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 24
+ALLIED_MEDIC_3 (Packs delivered): 0
+AXIS_FIELDOPS_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+ performMedictAction(), el valor de Power es: 25
+Arrived: ammo_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_4 (Packs delivered): 1
+ALLIED_MEDIC_1 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_7 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_2 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_6 (Packs delivered): 1
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_3 (Packs delivered): 1
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 1
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 2
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 3
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 4
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 5
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 6
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 7
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 8
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 9
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 10
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 11
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 12
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 13
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 14
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 15
+ALLIED_MEDIC_1 (Packs delivered): 0
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 16
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+Arrived: medic_pack_taken(20)
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 17
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 18
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 19
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_3 (Packs delivered): 0
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 20
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_6 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_3 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_2 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_7 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_4 (Packs delivered): 0
+ performMedictAction(), el valor de Power es: 21
+ALLIED_MEDIC_1 (Packs delivered): 0
+
+Agent (AXIS_FIELDOPS_1@158.227.124.33:1099/JADE):
+
+Agent (AXIS_SOLDIER_1@158.227.124.33:1099/JADE):
+
+Agent (AXIS_FIELDOPS_6@158.227.124.33:1099/JADE):
+
+Agent (ALLIED_MEDIC_5@158.227.124.33:1099/JADE):
+
+Agent (AXIS_FIELDOPS_2@158.227.124.33:1099/JADE):
+
+Agent (AXIS_FIELDOPS_3@158.227.124.33:1099/JADE):
+
+Agent (AXIS_FIELDOPS_5@158.227.124.33:1099/JADE):
+
+Agent (ALLIED_MEDIC_2@158.227.124.33:1099/JADE):
+
+Agent (ALLIED_MEDIC_6@158.227.124.33:1099/JADE):
+
+Agent (ALLIED_MEDIC_4@158.227.124.33:1099/JADE):
+
+Agent (ALLIED_MEDIC_1@158.227.124.33:1099/JADE):
+
+Agent (ALLIED_MEDIC_3@158.227.124.33:1099/JADE):
+
+Agent (ALLIED_MEDIC_7@158.227.124.33:1099/JADE):
+
+Agent (AXIS_FIELDOPS_4@158.227.124.33:1099/JADE):
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
+   * Deregistering ... [OK]
+   * Killing ......... [OK]
+
